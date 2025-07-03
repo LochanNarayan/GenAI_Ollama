@@ -9,7 +9,7 @@ from langchain_core.output_parsers import StrOutputParser
 load_dotenv()
 
 ## Langsmith Tracking
-os.environ["LANGCHAIN_API_KEY"]="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"
+os.environ["LANGCHAIN_API_KEY"]="key"
 os.environ["LANGCHAIN_TRACING_V2"]="true"
 os.environ["LANGCHAIN_PROJECT"]="GenAIappwithOpenAI"
 
